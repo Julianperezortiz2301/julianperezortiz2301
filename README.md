@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Julián, I am 17 years old and I work every day to become a good programmer. I am open to all kinds of educational proposals to be better in the fiel.
+My name is Julián, I am 18 years old and I work every day to become a good programmer. I am open to all kinds of educational proposals to be better in the fiel.
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
