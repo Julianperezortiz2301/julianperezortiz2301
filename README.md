@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./gay-zone-Gay-Anthro-gz-aliens-gp-art-9054448.jpeg" width="100%" alt="banner" />
-</p>
 
 ### Hi there 👋
 
@@ -18,3 +15,11 @@ My name is Julián, I am 18 years old and I work every day to become a good prog
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianperezortiz2301&show_icons=true&locale=en&layout=compact" alt="julianperezortiz2301" /></p>
+
+
+
+
+
+<p align="center">
+  <img src="./gay-zone-Gay-Anthro-gz-aliens-gp-art-9054448.jpeg" width="100%" alt="banner" />
+</p>
