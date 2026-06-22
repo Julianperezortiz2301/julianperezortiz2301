@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img0.thatpervert.com/pics/post/full/gay-zone-Gay-Anthro-gz-aliens-gp-art-9054448.jpeg" width="100%" alt="banner" />
+  <img src="./gay-zone-Gay-Anthro-gz-aliens-gp-art-9054448.jpeg" width="100%" alt="banner" />
 </p>
 
 ### Hi there 👋
