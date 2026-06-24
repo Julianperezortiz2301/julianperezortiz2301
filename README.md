@@ -20,6 +20,4 @@ My name is Julián, I am 18 years old and I work every day to become a good prog
 
 
 
-<p align="center">
-  <img src="./gay-zone-Gay-Anthro-gz-aliens-gp-art-9054448.jpeg" width="100%" alt="banner" />
-</p>
+
